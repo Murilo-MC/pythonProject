@@ -9,7 +9,7 @@ import this
 
 A idéia da PEP8 é escrevermos códigos de formas Pythonica.
 
-[1] Utilize Camel Case para nomes de classes:
+[1] Utilize Camel Case para nomes de section_5:
     class Calculadora / class CalculadoraCientifica
 
 [2] Utilize nome em minúsculo separado por underline para funções ou variáveis:
